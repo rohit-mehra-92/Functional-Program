@@ -24,8 +24,7 @@ public class TwoDArray {
             }
         }
         System.out.println("Printing element");
-        for (int i = 0; i < m; i++)
-        {
+        for (int i = 0; i < m; i++) {
             System.out.println();
             for (int j = 0; j < n; j++) {
                 System.out.print(arr[i][j] + "\t");
